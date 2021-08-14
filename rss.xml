@@ -1,12 +1,22 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>mpleaves的个人博客</title>
         <link>http://example.com</link>
         <description></description>
-        <language>en</language>
-        <pubDate>Fri, 13 Aug 2021 17:50:09 +0800</pubDate>
-        <lastBuildDate>Fri, 13 Aug 2021 17:50:09 +0800</lastBuildDate>
+        <language>zh-CN</language>
+        <pubDate>Sun, 15 Aug 2021 00:57:24 +0800</pubDate>
+        <lastBuildDate>Sun, 15 Aug 2021 00:57:24 +0800</lastBuildDate>
+        <category>-Hexo</category>
+        <item>
+            <guid isPermalink="true">http://example.com/2021/08/15/postName/</guid>
+            <title>我测试</title>
+            <link>http://example.com/2021/08/15/postName/</link>
+            <category>-Hexo</category>
+            <pubDate>Sun, 15 Aug 2021 00:57:24 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;你呢&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2021/08/13/hello-world/</guid>
             <title>Hello World</title>
