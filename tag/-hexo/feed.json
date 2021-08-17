@@ -7,9 +7,9 @@
         {
             "id": "http://example.com/2021/08/15/postName/",
             "url": "http://example.com/2021/08/15/postName/",
-            "title": "我测试",
+            "title": "测试",
             "date_published": "2021-08-14T16:57:24.000Z",
-            "content_html": "<p>你呢</p>\n",
+            "content_html": "<p>测试</p>\n",
             "tags": [
                 "-Hexo"
             ]
