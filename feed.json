@@ -5,6 +5,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2021/08/19/Identifier/",
+            "url": "http://example.com/2021/08/19/Identifier/",
+            "title": "标识符",
+            "date_published": "2021-08-19T09:43:00.000Z",
+            "content_html": "<h2 id=\"标识符\"><a class=\"markdownIt-Anchor\" href=\"#标识符\">#</a> 标识符</h2>\n<ol>\n<li>所有的标识符都应该以字母（A-Z 或者 a-z），美元符号（$）、或者下划线（_）开始</li>\n<li>首字符之后可以是字母（A-Z 或者 a-z），美元符号（$）、下划线（_）或数字的任何字符组成</li>\n<li>不能使用关键字做为变量名或方法名</li>\n<li>标识符大小写敏感</li>\n<li>合法标识符举例：age、$salary、_value</li>\n<li>非法标识符举例：123abc、-salary、#abc</li>\n</ol>\n<h2 id=\"代码示例\"><a class=\"markdownIt-Anchor\" href=\"#代码示例\">#</a> 代码示例</h2>\n<figure class=\"highlight java\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"keyword\">public</span> <span class=\"class\"><span class=\"keyword\">class</span> <span class=\"title\">Identifier</span></span>&#123;</span><br><span class=\"line\">    <span class=\"function\"><span class=\"keyword\">public</span> <span class=\"keyword\">static</span> <span class=\"keyword\">void</span> <span class=\"title\">main</span><span class=\"params\">(String[] args)</span></span>&#123;</span><br><span class=\"line\">        <span class=\"comment\">//大小写敏感</span></span><br><span class=\"line\">        String Code = <span class=\"string\">&quot;Hello World&quot;</span>;</span><br><span class=\"line\">        <span class=\"comment\">//String code = &quot;Hello World&quot;;</span></span><br><span class=\"line\">        System.out.println(Code);</span><br><span class=\"line\">    &#125;</span><br><span class=\"line\">&#125;</span><br></pre></td></tr></table></figure>\n",
+            "tags": [
+                "java笔记"
+            ]
+        },
+        {
             "id": "http://example.com/2021/08/15/markdown/",
             "url": "http://example.com/2021/08/15/markdown/",
             "title": "MarkDown学习",
