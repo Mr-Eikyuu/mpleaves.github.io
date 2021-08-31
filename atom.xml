@@ -12,10 +12,10 @@
         <link rel="alternate" href="http://example.com/2021/08/30/Operator/"/>
         <content type="html">&lt;h1 id=&#34;运算符&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运算符&#34;&gt;#&lt;/a&gt; 运算符&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;算数运算符：+，-，*，/，%，++，–&lt;/li&gt;
+&lt;li&gt;算数运算符：+，-，*，/，%(取余)，++(自增)，–&lt;/li&gt;
 &lt;li&gt;赋值运算符：=&lt;/li&gt;
-&lt;li&gt;关系运算符：&amp;gt;，&amp;lt;，&amp;gt;=，&amp;lt;=，==，!=，instanceof&lt;/li&gt;
-&lt;li&gt;逻辑运算符：&amp;amp;&amp;amp;，||，！&lt;/li&gt;
+&lt;li&gt;关系运算符：&amp;gt;，&amp;lt;，&amp;gt;=，&amp;lt;=，==，!=(不等于)，instanceof&lt;/li&gt;
+&lt;li&gt;逻辑运算符：&amp;amp;&amp;amp;(都为真才真)，||(有一个真则真)，！(反转)&lt;/li&gt;
 &lt;li&gt;位运算符：&amp;amp;，|，^，~，&amp;gt;&amp;gt;，&amp;lt;&amp;lt;，&amp;gt;&amp;gt;&amp;gt;（了解！！！）&lt;/li&gt;
 &lt;li&gt;条件运算符？：&lt;/li&gt;
 &lt;li&gt;扩展赋值运算符：+=，-=，*=，/=&lt;/li&gt;
